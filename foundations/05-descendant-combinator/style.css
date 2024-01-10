@@ -1,0 +1,13 @@
+div p {
+background-color: yellow;
+color:red;
+font-weight: bold;
+text-align: center;
+}
+
+div p.text2 {
+    background-color: yellow;
+    color:blue;
+    font-weight: bold;
+    text-align: center;
+}
